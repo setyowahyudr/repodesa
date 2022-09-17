@@ -7,6 +7,7 @@
 ## Tentang Desa Jenius
 
 ## Modul Surat Perintah Jalan
+Aplikasi SPJ adalah sistem informasi yang dibuat sebagai media untuk mempermudah dalam memproses SPJ (Surat Perintah Jalan) dari kegiatan di desa. Sistem informasi ini dapat digunakan untuk memantau beberapa kegiatan meliputi kegiatan fisik, kegiatan rapat, kegiatan PKT (Padat Karya Tunai), pembayaran gajih dan honor serta mengelola kelengkapan SPPD.
 
 Aplikasi kelengkapan data dukung SPJ desa
 
@@ -15,3 +16,14 @@ Aplikasi kelengkapan data dukung SPJ desa
 3. SPJ Kelengkapan PKT
 4. SPJ Gajih dan Honor
 5. SPJ Kelengkapan SPPD
+
+## PEDOMAN PENGGUNANAN
+Pedoman proses instal dan penggunan Aplikasi SPJ dapat dilihat di wiki Aplikasi SPJ dengan laman
+..................
+
+
+## HAK CIPTA, SYARAT, DAN KETENTUAN
+Aplikasi SPJ Desa Jenius ini dibangun dan dikembangkan oleh Toni Tri Supriadi dan diperuntukkan khusus untuk Bapak Rohman.
+
+## RELEASE DATE
+Release date : 30 September 2022
